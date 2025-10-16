@@ -18,12 +18,12 @@ public class FormTest {
     public static final Logger logger = LogManager.getLogger(FormTest.class);
     static public WebDriver driver;
     static public String URL ="https://demoqa.com/automation-practice-form";
-    static public String FIRST_NAME = "Nicoleta";
-    static public String LAST_NAME = "Reabov";
-    static public String USER_EMAIL = "reabovnicoleta@gmail.com";
-    static public String USER_GENDER = "Female";
-    static public String USER_NUMBER = "0786630007";
-    static public String USER_DATE = "03 May 2007";
+    static public String FIRST_NAME = "Capcelea";
+    static public String LAST_NAME = "Andrei";
+    static public String USER_EMAIL = "acapcelea888@gmail.com";
+    static public String USER_GENDER = "Male";
+    static public String USER_NUMBER = "0786333307";
+    static public String USER_DATE = "28 September 2006";
     static public String USER_SUBJECT = "English";
     static public String USER_HOBBY = "Music";
     static public String STATE = "Rajasthan";
